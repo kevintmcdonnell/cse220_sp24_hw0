@@ -7,6 +7,7 @@
             "name": "Run Main",
             "program": "${workspaceRoot}/build/hw0_main",
             "cwd": "${workspaceFolder}",
+            "preLaunchTask": "CMake: build"
         },
     ]
 }
